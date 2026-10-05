@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.env
+.env.*
+.vite
+*.log
+build-standalone.cjs
+preview.htmlsrc/App.css
+src/assets/
